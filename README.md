@@ -1,6 +1,11 @@
 # Seabert Yuan
 ## About Me
-I'm a student, programmer, and content creator based in Canada.
-I code at every opportunity that I can. I primarily do competitive programming on platforms such as DMOJ. My GitHub is for personal projects outside of DMOJ.
+Student, programmer, and content creator based in Canada.
+
+NixOS + Arch Linux dual boot. NeoVim enjoyer.
+
+A code monkey more than a good developer. This year I'm using Rust!
+
 ## Skills
-I can program in Java, C#, C++, Javascript (Node.js), and Python. I have more experience in some languages more than others.
+
+Primarily Rust, Java, C++, C, Javascript, Typescript, and Python.
