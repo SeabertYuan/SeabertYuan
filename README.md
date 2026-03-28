@@ -4,4 +4,4 @@
 
 Student, programmer, and content creator based in Canada.
 
-I run and I write, which I'll sometimes on my [website](https://seabertyuan.github.io/).
+I run and I write, which I'll sometimes document on my [website](https://seabertyuan.github.io/).
