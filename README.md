@@ -1,7 +1,15 @@
-# Seabert Yuan
+## building...
 
-## About Me
+- my [website](https://seabertyuan.github.io/)
+- tools to help me develop faster
+- the fastest terminal image viewer...
 
-Student, programmer, and content creator based in Canada.
+## I'm learning... Crypto!
 
-I run and I write, which I'll sometimes document on my [website](https://seabertyuan.github.io/).
+let's build some useless but cool things on-chain
+
+## I love re-inventing the wheel
+
+~~use a library~~: rewrite the library but slower, less secure, and less correct
+
+~~use AI to build tools~~: write the tools by hand taking 10x longer
